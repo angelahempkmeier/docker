@@ -1,0 +1,4 @@
+- docker run x: executa um novo container
+- docker ps: mostra os containers ativos
+- docker ps -a>: mostra os que foram executados
+- docker run -p 8080:80: rodou na 80? redireciona na 8008 do meu pc
